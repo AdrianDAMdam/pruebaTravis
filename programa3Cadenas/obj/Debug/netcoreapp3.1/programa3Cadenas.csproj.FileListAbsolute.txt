@@ -1,0 +1,13 @@
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\bin\Debug\netcoreapp3.1\programa3Cadenas.exe
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\bin\Debug\netcoreapp3.1\programa3Cadenas.deps.json
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\bin\Debug\netcoreapp3.1\programa3Cadenas.runtimeconfig.json
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\bin\Debug\netcoreapp3.1\programa3Cadenas.runtimeconfig.dev.json
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\bin\Debug\netcoreapp3.1\programa3Cadenas.dll
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\bin\Debug\netcoreapp3.1\programa3Cadenas.pdb
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\obj\Debug\netcoreapp3.1\programa3Cadenas.csprojAssemblyReference.cache
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\obj\Debug\netcoreapp3.1\programa3Cadenas.AssemblyInfoInputs.cache
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\obj\Debug\netcoreapp3.1\programa3Cadenas.AssemblyInfo.cs
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\obj\Debug\netcoreapp3.1\programa3Cadenas.csproj.CoreCompileInputs.cache
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\obj\Debug\netcoreapp3.1\programa3Cadenas.dll
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\obj\Debug\netcoreapp3.1\programa3Cadenas.pdb
+c:\Users\adria\Documents\GitHub\pruebaTravis\programa3Cadenas\obj\Debug\netcoreapp3.1\programa3Cadenas.genruntimeconfig.cache
